@@ -7,3 +7,10 @@
   justify-content: space-between;
   list-style: none;
 }
+
+/* active class created by react router navlink for active link we need to use global because css modules adds random string and it wont find the acc name if it does that*/
+/* Global class usually only used for external classnames like here how react router nammed it active*/
+
+.nav :global(.active) {
+  background-color: green;
+}
