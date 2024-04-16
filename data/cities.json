@@ -37,66 +37,6 @@
       "id": "11100101"
     },
     {
-      "id": "5e6f",
-      "cityName": "Patti",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-04-16T19:43:34.462Z",
-      "notes": "",
-      "position": {
-        "lat": "31.337216977110486",
-        "lng": "74.69192504882814"
-      }
-    },
-    {
-      "id": "0021",
-      "cityName": "Castelflorite",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-04-16T19:46:12.868Z",
-      "notes": "nice!",
-      "position": {
-        "lat": "41.82045509614034",
-        "lng": "0"
-      }
-    },
-    {
-      "id": "5911",
-      "cityName": "Cavia",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-04-16T19:52:13.047Z",
-      "notes": "",
-      "position": {
-        "lat": "42.293564192170095",
-        "lng": "-3.8452148437500004"
-      }
-    },
-    {
-      "id": "63f6",
-      "cityName": "Velilla del Rio Carrion",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-04-16T19:52:13.047Z",
-      "notes": "",
-      "position": {
-        "lat": "42.85985981506279",
-        "lng": "-4.812011718750001"
-      }
-    },
-    {
-      "id": "a126",
-      "cityName": "Atea",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-04-16T20:03:32.835Z",
-      "notes": "",
-      "position": {
-        "lat": "41.16211393939692",
-        "lng": "-1.56005859375"
-      }
-    },
-    {
       "id": "72a1",
       "cityName": "Villiers-le-Bel",
       "country": "France",
