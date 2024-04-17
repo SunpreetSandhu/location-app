@@ -1,9 +1,15 @@
+import { useNavigate } from "react-router";
 import { useAuth } from "../contexts/AuthContext";
 import styles from "./User.module.css";
 
 function User() {
-  const { user } = useAuth();
-  function handleClick() {}
+  const { user, logout } = useAuth();
+  const navigate = useNavigate();
+
+  function handleClick() {
+    logout();
+    navigate("/");
+  }
 
   return (
     <div className={styles.user}>
