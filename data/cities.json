@@ -1,3 +1,40 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "a5cf",
+      "cityName": "Hamilton",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-04-18T15:14:34.986Z",
+      "notes": "",
+      "position": {
+        "lat": "43.100982876188546",
+        "lng": "-79.84863281250001"
+      }
+    },
+    {
+      "id": "5728",
+      "cityName": "Township of Monroe",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-04-18T15:14:38.069Z",
+      "notes": "",
+      "position": {
+        "lat": "41.11246878918088",
+        "lng": "-79.45312500000001"
+      }
+    },
+    {
+      "id": "42a4",
+      "cityName": "Zanesville",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-04-18T15:15:08.993Z",
+      "notes": "",
+      "position": {
+        "lat": "39.94317324324501",
+        "lng": "-82.00263977050783"
+      }
+    }
+  ]
 }
