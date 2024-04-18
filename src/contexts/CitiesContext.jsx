@@ -103,6 +103,7 @@ function CitiesProvider({ children }) {
     },
     [currentCity.id]
   );
+  //performance optimization
 
   async function createCity(newCity) {
     dispatch({ type: "loading" });
